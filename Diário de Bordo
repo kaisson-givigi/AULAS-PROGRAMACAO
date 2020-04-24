@@ -52,10 +52,21 @@ Perguntas Respondidas:
 	6)	O que é metodologia de desenvolvimento de software? Quais são as mais famosas?
 	7)	O que é QA? Pra que serve?
 	8)	O que significa fazer o fork de um repositório no GitHub?
+			Significa fazer uma cópia de um repositório no usuário GitHub. Pore exemplo: Se eu faço um fork de um repositório do Kaisson,
+			eu estou copiando esse repositório para o meu usuário no GitHub.
 	9)	O que significa fazer o clone de repositório?
+			Siginifica fazer um download de um repositório do GitHub na minha maquina local.
 	10)	O que é um commit?
+		Um branch é uma alteração em um ou mais arquivos no repositório.
 	11)	O que significa fazer um push?
+		Significa enviar um conteúdo do repositório local para um repositório remoto.
 	12)	O que significa fazer um pull?
+		Significa buscar e/ou baixar conteúdo de um repositório remoto e atualizar o repositório local para que ele (O rep. Local) tenha 
+		o mesmo conteúdo.
 	13)	O que é uma branch?
+		Uma branch (Em português "Ramo") é uma ramificação do repositório principal. 
 	14)	O que significa fazer um merge?
+		Significa mesclar um branch secundário com o branch principal. 
+		Obs. Esse branch principal recebe o nome de branch master.
 	15)	O que é um pull request no GitHub?
+		
